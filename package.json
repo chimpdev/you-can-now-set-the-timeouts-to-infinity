@@ -1,0 +1,13 @@
+{
+  "name": "you-can-now-set-the-timeouts-to-infinity",
+  "version": "1.0.0",
+  "description": "This package allows you to set the timeouts and intervals to infinity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["timeout", "interval", "infinity", "setTimeout", "setInterval", "long-timeout", "long-interval"],
+  "author": "can#0002",
+  "license": "ISC",
+  "homepage": "https://github.com/chimpdev/you-can-now-set-the-timeout-to-infinity#readme"
+}
