@@ -17,8 +17,8 @@ npm install you-can-now-set-the-timeouts-to-infinity@latest
 # Simple Instance
 ```js
 const { Timeout, Interval } = require('you-can-now-set-the-timeouts-to-infinity');
-new Timeout(() => console.log('Hi! after 30 days..', 2592000000);
-new Interval(() => console.log('Hi! again..', 2592000000);
+new Timeout(() => console.log('Hi! after 30 days..'), 2592000000);
+new Interval(() => console.log('Hi! again..'), 2592000000);
 ```
 
 # News
